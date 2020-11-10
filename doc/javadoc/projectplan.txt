@@ -1,0 +1,16 @@
+
+.1 Ok, Review kodu zrodlowego i refaktoryzacja (3d)
+.2 Przeniesienie projektu na Windows Vista i dostosowanie konfiguracji (2d)
+.3 Pierwsze uruchomienie
+.4 Testowanie i poprawianie bledow
+.5 Dokumentowanie projektu
+
++ Getting Started (ODB, OQL, ODMG),
++ Instalacja PSE,
++ Konfiguracja projektu,
++ Use cases,
++ Uruchomienie projektu,
++ JavaDoc
++ Licencja.
+
+.6 Publikowanie projektu github (bez quality stamp)
